@@ -1,6 +1,6 @@
-import speedstars
 import time
 import threading
+from src import speedstars
 
 bots = []
 races = ["60m", "100m", "200m", "400m", "110mH", "400mH"]
